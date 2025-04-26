@@ -11,4 +11,4 @@ Getting this simulator up and running is simple. The first thing you need is to 
 
 Source Code and implementation I took inspiration from:
 
-CPU Simulator GUI - Francis Nweke --- https://github.com/FrancisNweke/CPU-Simulator-GUI
+Francis Nweke. CPU Simulator GUI. https://github.com/FrancisNweke/CPU-Simulator-GUI
